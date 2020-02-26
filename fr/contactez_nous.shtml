@@ -1,0 +1,28 @@
+
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/fr/2cold/block1.html" --><title>Contactez-nous</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="dcterms.creator" content="Ressources humaines et Développement des compétences Canada">
+<meta name="dcterms.subject" content="Langue,Ressources humaines,Don,Technologie,">
+<meta name="dcterms.title" content="Contactez-nous">
+<meta name="dcterms.issued" title="W3CDTF" content="2019-07-16">
+<meta name="dcterms.modified" title="W3CDTF" content="2019-07-16">
+<meta name="dcterms.language" title="ISO639-2" content="fr">
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/breadcrumbs.html" --><script type="text/javascript">
+			var cdnPageProps = {breadcrumbs: breadcrumbs, lngLinks: [{
+				lang: "fr",
+				href: "/eng/imit/A11Y/contact_us.shtml",
+				text: "English",
+			}],dateModified: "2019-07-16"};
+		</script>
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/fr/2cold/block2.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/fr/2cold/block3.html" -->
+			breadcrumbs: cdnPageProps.breadcrumbs,
+			lngLinks: cdnPageProps.lngLinks
+		
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/fr/2cold/block4.html" --><h1 id="wb-cont">Contactez-nous</h1>
+<p>Si vous avez des questions &agrave; propos de l&rsquo;Accessibilit&eacute; informatique, ou si vous voulez nous soumettre vos commentaires /suggestions, contacter-nous &agrave; l&rsquo;adresse courriel <a href="mailto:ACE-CEA@hrsdc-rhdcc.gc.ca">ACE-CEA@hrsdc-rhdcc.gc.ca</a> ou par t&eacute;l&eacute;phoner au <span class="nowrap">819 654-1071</span>.</p>
+<p>Vous pouvez aussi soumettre vos demandes de service directement avec <a href="/fra/giti/isn/index.shtml">InfoService National</a>. Une fois en ligne, vous pouvez tapez &lsquo;accessibilit&eacute;&rsquo; dans la liste de produit.</p>
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/fr/2cold/block5.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/fr/2cold/block6.html" -->
+<!--#include virtual="/includes/sp-es_prv/wet4/fr/nav_gauche/giti/TCI_gauche.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/fr/2cold/block7.html" -->

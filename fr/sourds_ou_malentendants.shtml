@@ -1,0 +1,54 @@
+
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/fr/2cold/block1.html" --><title>Concevoir pour les utilisateurs sourds ou malentendants</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="dcterms.creator" content="Ressources humaines et Développement des compétences Canada">
+<meta name="dcterms.subject" content="Offre,Tunnel,Conception,Droit,Travail,Langue,Logiciel,Pont,Ordinateur,Programme,Technologie,Lecture,">
+<meta name="dcterms.title" content="Concevoir pour les utilisateurs sourds ou malentendants">
+<meta name="dcterms.issued" title="W3CDTF" content="2019-07-11">
+<meta name="dcterms.modified" title="W3CDTF" content="2019-08-16">
+<meta name="dcterms.language" title="ISO639-2" content="fr">
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/breadcrumbs.html" --><script type="text/javascript">
+			var cdnPageProps = {breadcrumbs: breadcrumbs, lngLinks: [{
+				lang: "fr",
+				href: "/eng/imit/A11Y/deaf_hard_of_hearing.shtml",
+				text: "English",
+			}],dateModified: "2019-08-16"};
+		</script>
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/fr/2cold/block2.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/fr/2cold/block3.html" -->
+			breadcrumbs: cdnPageProps.breadcrumbs,
+			lngLinks: cdnPageProps.lngLinks
+		
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/fr/2cold/block4.html" --><h1 id="wb-cont">Concevoir pour les utilisateurs sourds ou malentendants</h1>
+<p class="text-right"><a href="/fra/giti/A11E/docs/sourds_ou_malentendants.pdf">infographique (PDF, 76 Ko)</a></p>
+<div class="col-md-10 col-xs-offset-1"><img src="/fra/giti/A11E/images/sourds_ou_malentendants.png" class="img-responsive" alt="Concevoir pour les utilisateurs sourds ou malentendants.  longue description ci-dessous" /></div>
+<div class="col-md-10 col-xs-offset-1"><details><summary>longue description</summary>
+<h2 class="mrgn-tp-0">Concevoir pour les utilisateurs sourds ou malentendants</h2>
+<div class="row">
+<div class="col-md-6">
+<h3>Faire...</h3>
+<ul class="lst-spcd">
+<li>&eacute;crire en fran&ccedil;ais courant</li>
+<li>utiliser des sous-titres ou fournir des transcriptions pour les vid&eacute;os</li>
+<li>utiliser une mise en page lin&eacute;aire et logique</li>
+<li>segmenter le contenu avec des sous-titres, des images et des vid&eacute;os</li>
+<li>laisser le choix aux utilisateurs de choisir leur moyen de communication pr&eacute;f&eacute;r&eacute;</li>
+</ul>
+</div>
+<div class="col-md-6">
+<h3>Ne pas faire...</h3>
+<ul class="lst-spcd">
+<li>utiliser des mots compliqu&eacute;s ou des figures de style</li>
+<li>mettre du contenu audio ou vid&eacute;o uniquement</li>
+<li>faire des mises en pages ou des menus complexes</li>
+<li>forcer les utilisateurs &agrave; lire des textes tr&egrave;s longs</li>
+<li>imposer le t&eacute;l&eacute;phone comme seul moyen de contact pour vos utilisateurs</li>
+</ul>
+</div>
+</div>
+<p>Pour de plus amples renseignements, veuillez contacter <a href="mailto:access@digital.homeoffice.gov.uk">access@digital.homeoffice.gov.uk</a></p>
+</details></div>
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/fr/2cold/block5.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/fr/2cold/block6.html" -->
+<!--#include virtual="/includes/sp-es_prv/wet4/fr/nav_gauche/giti/TCI_gauche.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/fr/2cold/block7.html" -->

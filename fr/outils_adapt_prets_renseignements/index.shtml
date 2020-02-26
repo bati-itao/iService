@@ -1,0 +1,66 @@
+
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/fr/2cold/block1.html" --><title>Outils d&#39;adaptation, pr&#234;ts et renseignements</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="dcterms.creator" content="Ressources humaines et Développement des compétences Canada">
+<meta name="dcterms.subject" content="Offre,Tunnel,Conception,Droit,Travail,Langue,Logiciel,Pont,Ordinateur,Programme,Technologie,Lecture,">
+<meta name="dcterms.title" content="Outils d&amp;#39;adaptation, pr&amp;#234;ts et renseignements">
+<meta name="dcterms.issued" title="W3CDTF" content="2019-07-05">
+<meta name="dcterms.modified" title="W3CDTF" content="2019-10-15">
+<meta name="dcterms.language" title="ISO639-2" content="fr">
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/breadcrumbs.html" --><script type="text/javascript">
+			var cdnPageProps = {breadcrumbs: breadcrumbs, lngLinks: [{
+				lang: "fr",
+				href: "/eng/imit/A11Y/adaptive_tools_loans_info/index.shtml",
+				text: "English",
+			}],dateModified: "2019-10-15"};
+		</script>
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/fr/2cold/block2.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/fr/2cold/block3.html" -->
+			breadcrumbs: cdnPageProps.breadcrumbs,
+			lngLinks: cdnPageProps.lngLinks
+		
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/fr/2cold/block4.html" --><h1 id="wb-cont">Types d'invalidit&eacute; les plus courants</h1>
+<div class="row">
+<div class="col-md-1"><span class="h1 fas fa-low-vision" aria-hidden="true"></span></div>
+<div class="col-md-11">
+<h2>Basse vision</h2>
+<p>Une personne ayant une basse vision souffre de probl&egrave;mes allant d'une l&eacute;g&egrave;re r&eacute;duction de l'acuit&eacute; visuelle &agrave; la c&eacute;cit&eacute; totale. Un employ&eacute; &agrave; l'acuit&eacute; visuelle r&eacute;duite n'a peut-&ecirc;tre besoin que images &agrave; l'&eacute;cran d'ordinateur de taille raisonnable ou qu'elles soient agrandies. Aussi, faudra-t-il sans doute apporter des modifications &agrave; l'endroit o&ugrave; se trouve son ordinateur de bureau ou lui fournir des appareils compl&eacute;mentaires qui agrandiront l'image &agrave; l'&eacute;cran.</p>
+<p><a href="/fra/giti/A11E/outils_adapt_prets_renseignements/basse_vision.shtml">plus pour Basse vision</a></p>
+</div>
+</div>
+<div class="row">
+<div class="col-md-1"><span class="h1 fas fa-blind" aria-hidden="true"></span></div>
+<div class="col-md-11">
+<h2>C&eacute;cit&eacute;</h2>
+<p>Les personnes aveugles pr&eacute;sentent des conditions allant de s&eacute;v&egrave;re r&eacute;duction de l'acuit&eacute; visuelle &agrave; la perte totale de vision et de perception de la lumi&egrave;re. Une vari&eacute;t&eacute; de logiciels et d'&eacute;quipements sont utilis&eacute;s afin d'offrir des mesures d'adaptation aux employ&eacute;s aveugles.</p>
+<p><a href="/fra/giti/A11E/outils_adapt_prets_renseignements/cecite.shtml">plus pour C&eacute;cit&eacute;</a></p>
+</div>
+</div>
+<div class="row">
+<div class="col-md-1"><span class="h1 fas fa-wheelchair" aria-hidden="true"></span></div>
+<div class="col-md-11">
+<h2>Mobilit&eacute; et dext&eacute;rit&eacute;</h2>
+<p>Les troubles de mobilit&eacute; ou de dext&eacute;rit&eacute; couvrent une gamme de probl&egrave;mes, allant de ceux d&eacute;coulant de troubles musculosquelettiques, tels que le syndrome du tunnel carpien et les maux de dos, &agrave; la perte de l'usage presque compl&egrave;te ou compl&egrave;te d'une main. L'employ&eacute; souffrant de l'un de ces troubles peut avoir besoin d'appareils particuliers lui permettant d'utiliser un ordinateur, tels que clavier modifi&eacute;, souris command&eacute;e par la t&ecirc;te ou le pied. Il peut &eacute;galement avoir besoin d'un syst&egrave;me de pr&eacute;diction de mots ou de reconnaissance vocale qui l'aidera &agrave; la saisie de texte.</p>
+<p><a href="/fra/giti/A11E/outils_adapt_prets_renseignements/mobilite_dexterite.shtml">plus pour Mobilit&eacute; et dext&eacute;rit&eacute;</a></p>
+</div>
+</div>
+<div class="row">
+<div class="col-md-1"><span class="h1 fas fa-deaf" aria-hidden="true"></span></div>
+<div class="col-md-11">
+<h2>D&eacute;ficience auditive</h2>
+<p>Le terme &laquo;&thinsp;d&eacute;ficience auditive&thinsp;&raquo; d&eacute;crit les personnes ayant tout degr&eacute; de perte auditive, de l&eacute;g&egrave;re &agrave; profonde, y compris les personnes sourdes ainsi que les personnes malentendantes.</p>
+<p><a href="/fra/giti/A11E/outils_adapt_prets_renseignements/surdite.shtml">plus pour D&eacute;ficience auditive</a></p>
+</div>
+</div>
+<div class="row">
+<div class="col-md-1"><span class="h1 fas fa-brain" aria-hidden="true"></span></div>
+<div class="col-md-11">
+<h2>Cognition</h2>
+<p>On trouve une vaste gamme de d&eacute;ficience cognitive, telle que l'affaiblissement de la m&eacute;moire &agrave; court et &agrave; long terme et la diff&eacute;rence perceptuelle. Les probl&egrave;mes de langage, tels que la dyslexie et les difficult&eacute;s temporaires qu'&eacute;prouvent les personnes qui apprennent de nouvelles langues, constituent &eacute;galement des probl&egrave;mes cognitifs courants. Habituellement, une combinaison de TIA est salutaire aux personnes aux prises avec des probl&egrave;mes cognitifs.</p>
+<p><a href="/fra/giti/A11E/outils_adapt_prets_renseignements/cognition.shtml">plus pour Cognition</a></p>
+</div>
+</div>
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/fr/2cold/block5.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/fr/2cold/block6.html" -->
+<!--#include virtual="/includes/sp-es_prv/wet4/fr/nav_gauche/giti/TCI_gauche.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/fr/2cold/block7.html" -->

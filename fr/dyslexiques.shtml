@@ -1,0 +1,54 @@
+
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/fr/2cold/block1.html" --><title>Concevoir pour les utilisateurs dyslexiques</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="dcterms.creator" content="Ressources humaines et Développement des compétences Canada">
+<meta name="dcterms.subject" content="Offre,Tunnel,Conception,Droit,Travail,Langue,Logiciel,Pont,Ordinateur,Programme,Technologie,Lecture,">
+<meta name="dcterms.title" content="Concevoir pour les utilisateurs dyslexiques">
+<meta name="dcterms.issued" title="W3CDTF" content="2019-07-11">
+<meta name="dcterms.modified" title="W3CDTF" content="2019-08-16">
+<meta name="dcterms.language" title="ISO639-2" content="fr">
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/breadcrumbs.html" --><script type="text/javascript">
+			var cdnPageProps = {breadcrumbs: breadcrumbs, lngLinks: [{
+				lang: "fr",
+				href: "/eng/imit/A11Y/dyslexia.shtml",
+				text: "English",
+			}],dateModified: "2019-08-16"};
+		</script>
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/fr/2cold/block2.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/fr/2cold/block3.html" -->
+			breadcrumbs: cdnPageProps.breadcrumbs,
+			lngLinks: cdnPageProps.lngLinks
+		
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/fr/2cold/block4.html" --><h1 id="wb-cont">Concevoir pour les utilisateurs dyslexiques</h1>
+<p class="text-right"><a href="/fra/giti/A11E/docs/dyslexiques.pdf">infographique (PDF, 99 Ko)</a></p>
+<div class="col-md-10 col-xs-offset-1"><img src="/fra/giti/A11E/images/dyslexiques.png" class="img-responsive" alt="Concevoir pour les utilisateurs dyslexiques.  longue description ci-dessous" /></div>
+<div class="col-md-10 col-xs-offset-1"><details><summary>longue description</summary>
+<h2 class="mrgn-tp-0">Concevoir pour les utilisateurs dyslexiques</h2>
+<div class="row">
+<div class="col-md-6">
+<h3>Faire...</h3>
+<ul class="lst-spcd">
+<li>utiliser des images et des graphiques pour illustrer vos textes</li>
+<li>aligner vos textes &agrave; gauche et garder des mises en pages homog&egrave;nes</li>
+<li>envisager de produire des contenus dans diff&eacute;rents formats (par exemple, audio ou vid&eacute;o)</li>
+<li>garder vos contenus concis, clairs et simples</li>
+<li>permettre les changements de contrastes entre arri&egrave;res-plans et textes</li>
+</ul>
+</div>
+<div class="col-md-6">
+<h3>Ne pas faire...</h3>
+<ul class="lst-spcd">
+<li>utiliser des textes tr&egrave;s longs sur des colonnes tr&egrave;s larges</li>
+<li>souligner les mots, utiliser de l'italique ou &eacute;crire en capitales</li>
+<li>forcer les utilisateurs &agrave; m&eacute;moriser l'information d'une page &agrave; l'autre &ndash; faites plut&ocirc;t des rappels</li>
+<li>s'attendre &agrave; une orthographe parfaite &ndash; proposer plut&ocirc;t de l'autocorrection ou des suggestions</li>
+<li>mettre trop d'informations au m&ecirc;me endroit</li>
+</ul>
+</div>
+</div>
+<p>Pour de plus amples renseignements, veuillez contacter <a href="mailto:access@digital.homeoffice.gov.uk">access@digital.homeoffice.gov.uk</a></p>
+</details></div>
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/fr/2cold/block5.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/fr/2cold/block6.html" -->
+<!--#include virtual="/includes/sp-es_prv/wet4/fr/nav_gauche/giti/TCI_gauche.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/fr/2cold/block7.html" -->

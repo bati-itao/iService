@@ -1,0 +1,50 @@
+
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block1.html" --><title>Mobility/Dexterity</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="dcterms.creator" content="Human Resources and Skills Development Canada">
+<meta name="dcterms.subject" content="Supply, Tunnels, Design, Law, Labour, Languages, Software, Bridges, Computers, Programs, Technology, Reading">
+<meta name="dcterms.title" content="Mobility/Dexterity">
+<meta name="dcterms.issued" title="W3CDTF" content="2010-06-03">
+<meta name="dcterms.modified" title="W3CDTF" content="2019-11-18">
+<meta name="dcterms.language" title="ISO639-2" content="en">
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/breadcrumbs.html" --><script type="text/javascript">
+			var cdnPageProps = {breadcrumbs: breadcrumbs, lngLinks: [{
+				lang: "en",
+				href: "/fra/giti/A11E/outils_adapt_prets_renseignements/mobilite_dexterite.shtml",
+				text: "Français",
+			}],dateModified: "2019-11-18"};
+		</script>
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block2.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block3.html" -->
+			breadcrumbs: cdnPageProps.breadcrumbs,
+			lngLinks: cdnPageProps.lngLinks
+		
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block4.html" --><h1 id="wb-cont">Mobility/Dexterity</h1>
+<h2>Information and Awareness on Accessibility Topics</h2>
+<p>The IT Accessibility Office offers awareness services. We provide information on accessibility related matters.</p>
+<p>A mobility impairment is defined as any disability that restricts a person's motor functioning skills. A dexterity impairment affects an individual's ability to make precise movements with one's hands, as in writing and keyboarding. Individuals with these impairments may require special devices to use computer equipment, including modified keyboards, on-screen keyboards, or a head or foot mouse.</p>
+<h2>Client's Need Assessment of Adaptive Technology (AT)</h2>
+<p>The IT Accessibility Office offers insight and guidance in meeting the needs for those who have mobility and/or dexterity impairments. By developing a strategy suited to individual needs, we can determine the best adaptive technology (AT) to be made available for client use.</p>
+<h2>End-User Support for Adaptive Technology (AT)</h2>
+<p>We provide support with adaptive technology for mobility and/or dexterity impaired users. Here are our most common products:</p>
+<ul>
+<li>Dragon Naturally Speaking Pro</li>
+<li>Dragon Medical Practice</li>
+<li>Worksafe Sam</li>
+</ul>
+<h2>General Requests for Adaptive Technology (AT)</h2>
+<p>You may submit a general inquiry. The IT Accessibility Office is dedicated to respond to general requests for adaptive Technology (AT).</p>
+<h2>Loan Bank Services</h2>
+<p>The IT Accessibility Office maintains, reviews and procures adaptive technology for a short-term loan bank. Items loaned out can be evaluated to determine if they are useful to individuals with mobility and/or dexterity impairments. Please see list below of Adaptive Technology available for rental:</p>
+<dl class="dl-horizontal brdr-0">
+<dt>Mouse:</dt>
+<dd>vertical, semi-vertical, foot mouse, roller mouse, mouse for carpel tunnel, tablet mouse</dd>
+<dt>Keyboard:</dt>
+<dd>short, split, curved, one-handed, NumPad</dd>
+</dl>
+<h2>Support for Accessibility Learning Curriculum</h2>
+<p>The IT Accessibility Office provides advice on the learning curriculum for accessibility. You can submit information requests or consult the Learning section on our iService page.</p>
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block5.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block6.html" -->
+<!--#include virtual="/includes/sp-es_prv/wet4/en/left_nav/imit/ICT_left.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block7.html" -->

@@ -1,0 +1,66 @@
+
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block1.html" --><title>Most Common Types of Disability</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="dcterms.creator" content="Human Resources and Skills Development Canada">
+<meta name="dcterms.subject" content="Supply, Tunnels, Design, Law, Labour, Languages, Software, Bridges, Computers, Programs, Technology, Reading">
+<meta name="dcterms.title" content="Most Common Types of Disability">
+<meta name="dcterms.issued" title="W3CDTF" content="2019-07-05">
+<meta name="dcterms.modified" title="W3CDTF" content="2019-10-15">
+<meta name="dcterms.language" title="ISO639-2" content="en">
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/breadcrumbs.html" --><script type="text/javascript">
+			var cdnPageProps = {breadcrumbs: breadcrumbs, lngLinks: [{
+				lang: "en",
+				href: "/fra/giti/A11E/outils_adapt_prets_renseignements/index.shtml",
+				text: "Français",
+			}],dateModified: "2019-10-15"};
+		</script>
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block2.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block3.html" -->
+			breadcrumbs: cdnPageProps.breadcrumbs,
+			lngLinks: cdnPageProps.lngLinks
+		
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block4.html" --><h1 id="wb-cont">Most Common Types of Disability</h1>
+<div class="row">
+<div class="col-md-1"><span class="h1 fas fa-low-vision" aria-hidden="true"></span></div>
+<div class="col-md-11">
+<h2>Low Vision</h2>
+<p>People with low vision have sight problems that range from slightly reduced visual acuity to close to total blindness. This may require changes to their desktop area or add-on equipment that helps magnify the images on the screen.</p>
+<p><a href="/eng/imit/A11Y/adaptive_tools_loans_info/low_vision.shtml">More for Low Vision</a></p>
+</div>
+</div>
+<div class="row">
+<div class="col-md-1"><span class="h1 fas fa-blind" aria-hidden="true"></span></div>
+<div class="col-md-11">
+<h2>Blindness</h2>
+<p>People who are blind have a range of conditions from severely reduced visual acuity to complete loss of vision and light perception. A variety of software and hardware is used to provide accommodations for employees who are blind.</p>
+<p><a href="/eng/imit/A11Y/adaptive_tools_loans_info/blindness.shtml">More for Blindness</a></p>
+</div>
+</div>
+<div class="row">
+<div class="col-md-1"><span class="h1 fas fa-wheelchair" aria-hidden="true"></span></div>
+<div class="col-md-11">
+<h2>Mobility / Dexterity</h2>
+<p>Mobility/dexterity impairments range from problems stemming from musculoskeletal disorders such as carpal tunnel syndrome or back pain, to little or no use of one or both hands. Individuals with these impairments may require special devices to use computer equipment, including modified keyboards, on-screen keyboards or a head or foot mouse. They may also need to use word prediction or voice recognition systems to help them type.</p>
+<p><a href="/eng/imit/A11Y/adaptive_tools_loans_info/mobility_dexterity.shtml">More for Mobility / Dexterity</a></p>
+</div>
+</div>
+<div class="row">
+<div class="col-md-1"><span class="h1 fas fa-deaf" aria-hidden="true"></span></div>
+<div class="col-md-11">
+<h2>Hearing Impairment</h2>
+<p>The term "hearing impaired" describes people with any degree of hearing loss, from mild to profound, including those who are deaf and those who are hard of hearing.</p>
+<p><a href="/eng/imit/A11Y/adaptive_tools_loans_info/deafness.shtml">More for Hearing Impairment</a></p>
+</div>
+</div>
+<div class="row">
+<div class="col-md-1"><span class="h1 fas fa-brain" aria-hidden="true"></span></div>
+<div class="col-md-11">
+<h2>Cognition</h2>
+<p>Cognitive impairments take many forms, including short and long-term memory impairments, and perceptual differences. Language impairments, including dyslexia and temporary impairments associated with those attempting to learn new languages, are also common cognitive problems. Normally a combination of adaptive computer technologies is used to help people with cognition problems.</p>
+<p><a href="/eng/imit/A11Y/adaptive_tools_loans_info/cognition.shtml">More for Cognition</a></p>
+</div>
+</div>
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block5.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block6.html" -->
+<!--#include virtual="/includes/sp-es_prv/wet4/en/left_nav/imit/ICT_left.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block7.html" -->

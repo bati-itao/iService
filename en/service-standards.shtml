@@ -1,0 +1,82 @@
+
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block1.html" --><title>Accessible Information Communication Technology (ICT) Service Standards</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="dcterms.creator" content="Human Resources and Skills Development Canada">
+<meta name="dcterms.subject" content="Supply, Tunnels, Design, Law, Labour, Languages, Software, Bridges, Computers, Programs, Technology, Reading">
+<meta name="dcterms.title" content="Accessible Information Communication Technology (ICT) Service Standards">
+<meta name="dcterms.issued" title="W3CDTF" content="2019-11-08">
+<meta name="dcterms.modified" title="W3CDTF" content="2019-11-25">
+<meta name="dcterms.language" title="ISO639-2" content="en">
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/breadcrumbs.html" --><script type="text/javascript">
+			var cdnPageProps = {breadcrumbs: breadcrumbs, lngLinks: [{
+				lang: "en",
+				href: "/fra/giti/A11E/normes-de-service.shtml",
+				text: "Français",
+			}],dateModified: "2019-11-25"};
+		</script>
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block2.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block3.html" -->
+			breadcrumbs: cdnPageProps.breadcrumbs,
+			lngLinks: cdnPageProps.lngLinks
+		
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block4.html" --><h1 id="wb-cont">Accessible Information and Communication Technology (ICT) Service Delivery Standards</h1>
+<p>Here are the Service Delivery Standards offered by the IT Accessibility office. We will do our best in responding to service requests within the prescribed Service Delivery Standards provided below.</p>
+<table class="table table-striped table-bordered"><caption class="wb-inv">Service Delivery Standards</caption>
+<thead>
+<tr><th scope="col">Service Title</th><th scope="col">Number of Working Days</th></tr>
+</thead>
+<tbody>
+<tr>
+<td>Information / Awareness on Accessibility Topics</td>
+<td>5 &ndash; 10</td>
+</tr>
+<tr>
+<td>Client&rsquo;s Need Assessment</td>
+<td>10</td>
+</tr>
+<tr>
+<td>End User Support for Adaptive Technology</td>
+<td>5 &ndash; 15</td>
+</tr>
+<tr>
+<td>General Requests for Adaptive Technology</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Support for Accessibility Learning Curriculum</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Loan Bank Services</td>
+<td>7</td>
+</tr>
+<tr>
+<td>Accessibility Compliance Project Management Services</td>
+<td>5</td>
+</tr>
+<tr>
+<td>General Advice on accessible ICT</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Design and Development Advice on Accessible ICT</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Procurement Advice on Accessible ICT</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Accessibility Compliance Assessments on ICT Solutions</td>
+<td>5 &ndash; 10</td>
+</tr>
+<tr>
+<td>Document Review</td>
+<td>5</td>
+</tr>
+</tbody>
+</table>
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block5.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block6.html" -->
+<!--#include virtual="/includes/sp-es_prv/wet4/en/left_nav/imit/ICT_left.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block7.html" -->

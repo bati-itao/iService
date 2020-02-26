@@ -1,0 +1,54 @@
+
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/fr/2cold/block1.html" --><title>Concevoir pour les utilisateurs malvoyants</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="dcterms.creator" content="Ressources humaines et Développement des compétences Canada">
+<meta name="dcterms.subject" content="Offre,Tunnel,Conception,Droit,Travail,Langue,Logiciel,Pont,Ordinateur,Programme,Technologie,Lecture,">
+<meta name="dcterms.title" content="Concevoir pour les utilisateurs malvoyants">
+<meta name="dcterms.issued" title="W3CDTF" content="2019-07-11">
+<meta name="dcterms.modified" title="W3CDTF" content="2019-08-16">
+<meta name="dcterms.language" title="ISO639-2" content="fr">
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/breadcrumbs.html" --><script type="text/javascript">
+			var cdnPageProps = {breadcrumbs: breadcrumbs, lngLinks: [{
+				lang: "fr",
+				href: "/eng/imit/A11Y/low_vision.shtml",
+				text: "English",
+			}],dateModified: "2019-08-16"};
+		</script>
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/fr/2cold/block2.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/fr/2cold/block3.html" -->
+			breadcrumbs: cdnPageProps.breadcrumbs,
+			lngLinks: cdnPageProps.lngLinks
+		
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/fr/2cold/block4.html" --><h1 id="wb-cont">Concevoir pour les utilisateurs malvoyants</h1>
+<p class="text-right"><a href="/fra/giti/A11E/docs/malvoyants.pdf">infographique (PDF, 92 Ko)</a></p>
+<div class="col-md-10 col-xs-offset-1"><img src="/fra/giti/A11E/images/malvoyants.png" class="img-responsive" alt="Concevoir pour les utilisateurs malvoyants.  longue description ci-dessous" /></div>
+<div class="col-md-10 col-xs-offset-1"><details><summary>longue description</summary>
+<h2 class="mrgn-tp-0">Concevoir pour les utilisateurs malvoyants</h2>
+<div class="row">
+<div class="col-md-6">
+<h3>Faire...</h3>
+<ul class="lst-spcd">
+<li>utiliser de bons contrastes de couleurs et une taille de texte lisible</li>
+<li>publier toutes les informations dans la page web</li>
+<li>utiliser une combinaison de couleurs, de formes et de textes</li>
+<li>&eacute;tablir une mise en page lin&eacute;aire et logique</li>
+<li>mettre les boutons et les notifications en contexte</li>
+</ul>
+</div>
+<div class="col-md-6">
+<h3>Ne pas faire...</h3>
+<ul class="lst-spcd">
+<li>utiliser des contrastes de couleurs faibles et des textes de petites tailles</li>
+<li>d&eacute;porter les informations dans des fichiers &agrave; t&eacute;l&eacute;charger</li>
+<li>n'utiliser que la couleur pour transmettre l'information</li>
+<li>r&eacute;partir le contenu sur toute la page</li>
+<li>s&eacute;parer les actions de leurs contextes</li>
+</ul>
+</div>
+</div>
+<p>Pour de plus amples renseignements, veuillez contacter <a href="mailto:access@digital.homeoffice.gov.uk">access@digital.homeoffice.gov.uk</a></p>
+</details></div>
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/fr/2cold/block5.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/fr/2cold/block6.html" -->
+<!--#include virtual="/includes/sp-es_prv/wet4/fr/nav_gauche/giti/TCI_gauche.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/fr/2cold/block7.html" -->

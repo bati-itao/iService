@@ -1,0 +1,56 @@
+
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block1.html" --><title>designing_fo_people_do_dont</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="dcterms.creator" content="Human Resources and Skills Development Canada">
+<meta name="dcterms.subject" content="Supply, Tunnels, Design, Law, Labour, Languages, Software, Bridges, Computers, Programs, Technology, Reading">
+<meta name="dcterms.title" content="designing_fo_people_do_dont">
+<meta name="dcterms.issued" title="W3CDTF" content="2019-07-10">
+<meta name="dcterms.modified" title="W3CDTF" content="2019-07-11">
+<meta name="dcterms.language" title="ISO639-2" content="en">
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/breadcrumbs.html" --><script type="text/javascript">
+			var cdnPageProps = {breadcrumbs: breadcrumbs, lngLinks: [{
+				lang: "en",
+				href: "/fra/giti/A11E/autistique.shtml",
+				text: "Français",
+			}],dateModified: "2019-07-11"};
+		</script>
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block2.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block3.html" -->
+			breadcrumbs: cdnPageProps.breadcrumbs,
+			lngLinks: cdnPageProps.lngLinks
+		
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block4.html" --><h1 id="wb-cont">Designing for users on the autistic Spectrum</h1>
+<p class="text-right"><a href="/eng/imit/A11Y/docs/autistic_spectrum.pdf">infographic (PDF, 84 KB)</a></p>
+<div class="row">
+<div class="col-md-10 col-xs-offset-1"><img src="/eng/imit/A11Y/images/autistic_spectrum.png" class="img-responsive" alt="Designing for users on the autistic Spectrum.  Long description below" /></div>
+</div>
+<div class="col-md-10 col-xs-offset-1"><details><summary>Long Description</summary>
+<h2 class="mrgn-tp-0">Designing for users on the autistic Spectrum</h2>
+<div class="row">
+<div class="col-md-6">
+<h3>Do...</h3>
+<ul class="lst-spcd">
+<li>Use simple colours</li>
+<li>Write in plain language</li>
+<li>Use simple sentences and bullets</li>
+<li>Make buttons descriptive <button>Attach files</button></li>
+<li>Build simple and consistent layouts</li>
+</ul>
+</div>
+<div class="col-md-6">
+<h3>Don't...</h3>
+<ul class="lst-spcd">
+<li>Use bright contrasting colours</li>
+<li>Use figures of speech and idioms</li>
+<li>Create wall of text</li>
+<li>Make buttons vague and unpredictable <button>Click Here!</button></li>
+<li>Build complex and cluttered layouts</li>
+</ul>
+</div>
+</div>
+<p>For more information, contact: <a href="mailto:access@digital.homeoffice.gov.uk">access@digital.homeoffice.gov.uk</a></p>
+</details></div>
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block5.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block6.html" -->
+<!--#include virtual="/includes/sp-es_prv/wet4/en/left_nav/imit/ICT_left.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block7.html" -->

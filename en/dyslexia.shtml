@@ -1,0 +1,56 @@
+
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block1.html" --><title>Designing for users with dyslexia</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="dcterms.creator" content="Human Resources and Skills Development Canada">
+<meta name="dcterms.subject" content="Supply, Tunnels, Design, Law, Labour, Languages, Software, Bridges, Computers, Programs, Technology, Reading">
+<meta name="dcterms.title" content="Designing for users with dyslexia">
+<meta name="dcterms.issued" title="W3CDTF" content="2019-07-11">
+<meta name="dcterms.modified" title="W3CDTF" content="2019-08-16">
+<meta name="dcterms.language" title="ISO639-2" content="en">
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/breadcrumbs.html" --><script type="text/javascript">
+			var cdnPageProps = {breadcrumbs: breadcrumbs, lngLinks: [{
+				lang: "en",
+				href: "/fra/giti/A11E/dyslexiques.shtml",
+				text: "Français",
+			}],dateModified: "2019-08-16"};
+		</script>
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block2.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block3.html" -->
+			breadcrumbs: cdnPageProps.breadcrumbs,
+			lngLinks: cdnPageProps.lngLinks
+		
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block4.html" --><h1 id="wb-cont">Designing for users with dyslexia</h1>
+<p class="text-right"><a href="/eng/imit/A11Y/docs/dyslexia.pdf">infographic (PDF, 83 KB)</a></p>
+<div class="row">
+<div class="col-md-10 col-xs-offset-1"><img src="/eng/imit/A11Y/images/dyslexia.png" class="img-responsive" alt="Designing for users with dyslexia.  Long description below" /></div>
+</div>
+<div class="col-md-10 col-xs-offset-1"><details><summary>Long Description</summary>
+<h2 class="mrgn-tp-0">Designing for users with dyslexia</h2>
+<div class="row">
+<div class="col-md-6">
+<h3>Do...</h3>
+<ul class="lst-spcd">
+<li>Use images and diagrams to support text</li>
+<li>Align text to the left and keep a consistent layout</li>
+<li>Consider producing materials in other formats (for example, audio or video)</li>
+<li>Keep content short, clear and simple</li>
+<li>Let users change the contrast between background and text</li>
+</ul>
+</div>
+<div class="col-md-6">
+<h3>Don't...</h3>
+<ul class="lst-spcd">
+<li>Use large blocks of heavy text</li>
+<li>Underline words, use italics or write in capitals</li>
+<li>Force users to remember things from previous pages &ndash; give reminders and prompts</li>
+<li>Rely on accurate spelling &ndash; use autocorrect or provide suggestions</li>
+<li>Put too much information in one place</li>
+</ul>
+</div>
+</div>
+<p>For more information, contact: <a href="mailto:access@digital.homeoffice.gov.uk">access@digital.homeoffice.gov.uk</a></p>
+</details></div>
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block5.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block6.html" -->
+<!--#include virtual="/includes/sp-es_prv/wet4/en/left_nav/imit/ICT_left.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block7.html" -->

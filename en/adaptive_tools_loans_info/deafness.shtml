@@ -1,0 +1,51 @@
+
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block1.html" --><title>Hearing Impairment</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="dcterms.creator" content="Human Resources and Skills Development Canada">
+<meta name="dcterms.subject" content="Communications, Languages">
+<meta name="dcterms.title" content="Hearing Impairment">
+<meta name="dcterms.issued" title="W3CDTF" content="2010-06-03">
+<meta name="dcterms.modified" title="W3CDTF" content="2019-12-23">
+<meta name="dcterms.language" title="ISO639-2" content="en">
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/breadcrumbs.html" --><script type="text/javascript">
+			var cdnPageProps = {breadcrumbs: breadcrumbs, lngLinks: [{
+				lang: "en",
+				href: "/fra/giti/A11E/outils_adapt_prets_renseignements/surdite.shtml",
+				text: "Français",
+			}],dateModified: "2019-12-23"};
+		</script>
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block2.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block3.html" -->
+			breadcrumbs: cdnPageProps.breadcrumbs,
+			lngLinks: cdnPageProps.lngLinks
+		
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block4.html" --><h1 id="wb-cont">Hearing Impairment</h1>
+<h2>Information and Awareness on Accessibility Topics</h2>
+<p>The IT Accessibility Office offers awareness services. We provide information on accessibility related matters.</p>
+<p>The term "hearing impaired" describes people with any degree of hearing loss. This ranges from hard of hearing to complete deafness.</p>
+<h3>Definition of various levels of hearing loss</h3>
+<dl class="dl-horizontal brdr-0">
+<dt>Deaf:</dt>
+<dd>refers to a person with hearing loss so severe that there is very little or no functional hearing.</dd>
+<dt>Deafened:</dt>
+<dd>usually refers to a person who becomes deaf as an adult.</dd>
+<dt>Hard-of-hearing:</dt>
+<dd>refers to a person with hearing loss where there may be enough residual hearing that an auditory device, such as a hearing aid or a frequency-modulation system, provides adequate assistance to process speech.</dd>
+</dl>
+<p>Some people also may have overly sensitive hearing (Hyperacusis) in one or both ears.</p>
+<h2>Client's Need Assessment of Adaptive Technology (AT)</h2>
+<p>The IT Accessibility Office offers insight and guidance in meeting the needs for those who are hearing impaired. By developing a strategy suited to individual needs, we can determine the best adaptive technology (AT) to be made available for client use.</p>
+<h2>General Requests for Adaptive Technology (AT)</h2>
+<p>You may submit a general inquiry. The IT Accessibility Office is dedicated to respond to general requests for adaptive Technology (AT).</p>
+<dl>
+<dt>Loan Bank Services</dt>
+<dd>The IT Accessibility Office maintains, reviews and procures adaptive technology for a short-term loan bank. Items loaned out can be evaluated to determine if they are useful to individuals who are hearing impaired. Please see list below of Adaptive technology available for rental:</dd>
+<dt>UbiDuo:</dt>
+<dd>a solution to facilitate face-to-face communication between deaf/hard-of-hearing and hearing people. This device will help to eliminate feigning, frustration and Communiphobia, as well as promote communication equality. It allows people to share their thoughts and emotions seamlessly in real time.</dd>
+</dl>
+<h2>Support for Accessibility Learning Curriculum</h2>
+<p>The IT Accessibility Office provides advice on the learning curriculum for accessibility. You can submit information requests or consult the Learning section on our iService page.</p>
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block5.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block6.html" -->
+<!--#include virtual="/includes/sp-es_prv/wet4/en/left_nav/imit/ICT_left.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block7.html" -->

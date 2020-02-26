@@ -1,0 +1,28 @@
+
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block1.html" --><title>Contact Us</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="dcterms.creator" content="Human Resources and Skills Development Canada">
+<meta name="dcterms.subject" content="Languages, Human resources, Donations, Technology">
+<meta name="dcterms.title" content="Contact Us">
+<meta name="dcterms.issued" title="W3CDTF" content="2019-07-16">
+<meta name="dcterms.modified" title="W3CDTF" content="2019-07-16">
+<meta name="dcterms.language" title="ISO639-2" content="en">
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/breadcrumbs.html" --><script type="text/javascript">
+			var cdnPageProps = {breadcrumbs: breadcrumbs, lngLinks: [{
+				lang: "en",
+				href: "/fra/giti/A11E/contactez_nous.shtml",
+				text: "Français",
+			}],dateModified: "2019-07-16"};
+		</script>
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block2.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block3.html" -->
+			breadcrumbs: cdnPageProps.breadcrumbs,
+			lngLinks: cdnPageProps.lngLinks
+		
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block4.html" --><h1 id="wb-cont">Contact Us</h1>
+<p>If you have questions related to&nbsp;IT Accessibility, or if you would like to submit your comments/suggestions, send an email to <a href="mailto:ACE-CEA@hrsdc-rhdcc.gc.ca">ACE-CEA@hrsdc-rhdcc.gc.ca</a> or call 819 654-1071.</p>
+<p>You may also submit your service requests directly to the <a href="/eng/imit/nsd/index.shtml">National ServiceDesk</a>. Once online, you may type &lsquo;accessibility&rsquo; in the product list.</p>
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block5.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block6.html" -->
+<!--#include virtual="/includes/sp-es_prv/wet4/en/left_nav/imit/ICT_left.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block7.html" -->

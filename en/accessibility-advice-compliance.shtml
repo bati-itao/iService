@@ -1,0 +1,76 @@
+
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block1.html" --><title>Accessibility Advice and Compliance</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="dcterms.creator" content="Human Resources and Skills Development Canada">
+<meta name="dcterms.subject" content="Languages, Human resources, Donations, Technology">
+<meta name="dcterms.title" content="Accessibility Advice and Compliance">
+<meta name="dcterms.issued" title="W3CDTF" content="2019-10-16">
+<meta name="dcterms.modified" title="W3CDTF" content="2019-11-18">
+<meta name="dcterms.language" title="ISO639-2" content="en">
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/breadcrumbs.html" --><script type="text/javascript">
+			var cdnPageProps = {breadcrumbs: breadcrumbs, lngLinks: [{
+				lang: "en",
+				href: "/fra/giti/A11E/conseils-conformite-accessibilite.shtml",
+				text: "Français",
+			}],dateModified: "2019-11-18"};
+		</script>
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block2.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block3.html" -->
+			breadcrumbs: cdnPageProps.breadcrumbs,
+			lngLinks: cdnPageProps.lngLinks
+		
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block4.html" --><h1 id="wb-cont">Accessibility Advice and Compliance</h1>
+<h2 id="general">General Advice on Accessible ICT</h2>
+<p>If the service or advice you are looking for cannot be found in the current offerings, you may submit a general inquiry. The IT Accessibility Office is dedicated to offering general IT Accessibility guidance and assistance in locating the services you require.</p>
+<h2 id="design">Design and Development Advice on Accessible ICT</h2>
+<p>The IT Accessibility Office offers professional insight and guidance to help employees and managers design and develop accessible ICT solutions. Our advice extends across all phases of the project life cycle and includes, but is not limited to:</p>
+<ul>
+<li>Outlining accessibility requirements to meet legal obligations</li>
+<li>Preparation and advice for accessible development and provision of necessary support to achieve accessibility compliance.</li>
+<li>Suggestions for templates</li>
+</ul>
+<h2 id="Procurement">Procurement Advice on Accessible ICT</h2>
+<p>The IT Accessibility Office provides insight and guidance on procuring accessible ICT. This advice covers the various stages, content and language associated with procurement. It includes but is not limited to:</p>
+<ul>
+<li>Outlining accessibility requirements to meet legal obligations</li>
+<li>Preparation and advice for procuring accessible ICT</li>
+<li>Integrating accessibility measures in all procurement documentation and contracts.</li>
+</ul>
+<h2 id="Project">Accessibility Compliance Project Management Services</h2>
+<p>The IT Accessibility Office provides services and information pertaining to accessible project management. Information and services include but are not limited to:</p>
+<ul>
+<li>How to cost for accessibility</li>
+<li>Project statuses</li>
+<li>Timelines, planning and road mapping for accessibility</li>
+</ul>
+<h2 id="Assessments">Accessibility Compliance Assessments on ICT Solutions</h2>
+<p>We offer assessments measuring compliance with accessibility standards for applications on all platforms. Assessments are comprised of information, services and advice, such as:</p>
+<ul>
+<li>Preparing and running compliance scans for accessibility on
+<ul>
+<li>Interfaces</li>
+<li>Content</li>
+</ul>
+</li>
+<li>Producing Accessibility Compliance Assessments</li>
+<li>Providing direction for achieving compliance
+<ul>
+<li>Which teams to contact for information and assistance</li>
+<li>Information for self service and learning</li>
+</ul>
+</li>
+</ul>
+<h2>Document Review</h2>
+<p>The IT Accessibility Office provides document review service to make your document accessible for a variety of document types, Such as:</p>
+<ul>
+<li>Outlook</li>
+<li>Word</li>
+<li>Excel</li>
+<li>PowerPoint</li>
+<li>PDF</li>
+</ul>
+<p>We offer relevant/applicable advice to all other file formats. Please attach the document with your service request.</p>
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block5.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block6.html" -->
+<!--#include virtual="/includes/sp-es_prv/wet4/en/left_nav/imit/ICT_left.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/2cold/block7.html" -->

@@ -1,0 +1,226 @@
+
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/1col/block1.html" --><title>Accessible Information and Communication Technology (ICT)</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="dcterms.creator" content="Human Resources and Skills Development Canada">
+<meta name="dcterms.subject" content="Languages, Human resources, Donations, Technology">
+<meta name="dcterms.title" content="Accessible Information and Communication Technology (ICT)">
+<meta name="dcterms.issued" title="W3CDTF" content="2010-06-03">
+<meta name="dcterms.modified" title="W3CDTF" content="2020-02-13">
+<meta name="dcterms.language" title="ISO639-2" content="en">
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/breadcrumbs.html" --><script type="text/javascript">
+			var cdnPageProps = {breadcrumbs: breadcrumbs, lngLinks: [{
+				lang: "en",
+				href: "/fra/giti/A11E/index.shtml",
+				text: "Français",
+			}],dateModified: "2020-02-13"};
+		</script>
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/1col/block2.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/1col/block3.html" -->
+			breadcrumbs: cdnPageProps.breadcrumbs,
+			lngLinks: cdnPageProps.lngLinks
+		
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/1col/block4.html" --><h1 id="wb-cont">Accessible Information and Communication Technology (ICT)</h1>
+<div class="wb-share pull-right well-sm mrgn-rght-sm" data-wb-share="{&quot;filter&quot;: [&quot;email&quot;], &quot;pnlId&quot;: &quot;pnl5&quot;}"></div>
+<div class="clearfix"></div>
+<div class="row">
+<div class="col-md-7">
+<div class="row">
+<div class="col-md-4 pull-left">
+<div class="mrgn-bttm-md well-sm"><img src="/eng/imit/A11Y/images/ict_tci_logo.png" class="img-responsive" alt="" /></div>
+</div>
+<div class="mrgn-lft-md mrgn-rght-md mrgn-tp-lg">
+<p>These services include adaptive technology support, coaching, and product assessments, as well as offering Innovation, Information Technology Branch (IITB) advice and guidance.</p>
+</div>
+</div>
+</div>
+<div class="col-md-5">
+<figure class="thumbnail"><a href="/eng/service_catalogues/video/IT_accessibility.shtml"><img src="/eng/service_catalogues/video/192015271/IT_accessibility_placeholder_EN.png" class="img-responsive" alt="IT accessibility with link to the video from the IT Accessibility Office" /></a></figure>
+</div>
+</div>
+<!-- Services -->
+<div class="row wb-eqht mrgn-tp-md">
+<div class="col-md-7">
+<section class="panel panel-primary hght-inhrt"><header class="panel-heading">
+<h2 id="services" class="panel-title"><span class="fas fa-bell mrgn-rght-md" aria-hidden="true"></span>Services</h2>
+</header>
+<div class="panel-body">
+<p class="label label-primary pull-right"><span class="glyphicon glyphicon-screenshot mrgn-rght-md" aria-hidden="true"></span>Target Audience: Everyone</p>
+<h3 class="mrgn-tp-0 h4">Most Common Types of Disability</h3>
+<ul>
+<li><a href="/eng/imit/A11Y/adaptive_tools_loans_info/low_vision.shtml">Low Vision</a></li>
+<li><a href="/eng/imit/A11Y/adaptive_tools_loans_info/blindness.shtml">Blindness</a></li>
+<li><a href="/eng/imit/A11Y/adaptive_tools_loans_info/mobility_dexterity.shtml">Mobility / Dexterity</a></li>
+<li><a href="/eng/imit/A11Y/adaptive_tools_loans_info/deafness.shtml">Hearing Impairment</a></li>
+<li><a href="/eng/imit/A11Y/adaptive_tools_loans_info/cognition.shtml">Cognition</a></li>
+</ul>
+<h3 class="h4">Employees and Managers (User Services)</h3>
+<ul class="mrgn-bttm-lg">
+<li>Information / Awareness on Accessibility Topics</li>
+<li>Client Assessment for Adaptive Technology (AT)</li>
+<li>End-User Support for Adaptive Technology (AT)</li>
+<li>General Requests for Adaptive Technology (AT)</li>
+<li>Support for Accessibility Learning Curriculum</li>
+<li>Loan Bank Services</li>
+</ul>
+<p class="label label-primary pull-right"><span class="glyphicon glyphicon-screenshot mrgn-rght-md" aria-hidden="true"></span>Target Audience: IITB</p>
+<div class="xclearfix"></div>
+<h3 class="mrgn-tp-sm h4">Product and Solution Managers (IT Services)</h3>
+<p><a href="/eng/imit/A11Y/accessibility-advice-compliance.shtml">Accessibility Advice and Compliance</a></p>
+<ul>
+<li>Accessibility Compliance Project Management Services</li>
+<li>General Advice on an accessible ICT</li>
+<li>Design Advice on an accessible ICT solution</li>
+<li>Procurement Advice on an accessible ICT solution</li>
+<li>Accessible Assessments on ICT solution</li>
+<li>Document Review</li>
+</ul>
+<!-- Service Satndards -->
+<div class="col-md-8 mrgn-tp-md"><a href="/eng/imit/a11y/service-standards.shtml" class="btn btn-default"><span class="fas fa-stopwatch mrgn-rght-md" aria-hidden="true"></span>Service Standards</a></div>
+</div>
+</section>
+</div>
+<div class="col-md-5">
+<section class="panel panel-success"><header class="panel-heading">
+<h2 id="info" class="panel-title"><span class="fas fa-info-circle mrgn-rght-md" aria-hidden="true"></span>Tools and Resources</h2>
+</header>
+<div class="panel-body">
+<ul>
+<li><a href="http://dialogue/sharepointcommunity/en-ca/Pages/YourResponsibilities.aspx">SharePoint site design best practices and tips</a></li>
+<li><a href="http://dialogue/grp/bu6206833/SitePages/Home.aspx">IT Accessibility SharePoint</a></li>
+<li><a href="http://www.gcpedia.gc.ca/gcwiki/images/3/3f/Guide-Planning_Inclusive_and_Accessible_Events.pdf">Planning Inclusive and Accessible Events - A Handbook for Federal Public Servants (PDF, 1.2 MB)</a></li>
+<li><a href="https://www.tpsgc-pwgsc.gc.ca/apropos-about/acc-eng.html">Accessibility at Public Services and Procurement Canada (PSPC)</a></li>
+<li><a href="http://www.btb.termiumplus.gc.ca/publications/accessibilite-accessibility-eng.html">Accessibility Glossary - GoC</a></li>
+<li><a href="/eng/hr/dta/index.shtml">Duty to Accommodate (DTA) </a></li>
+<li><a href="https://www.microsoft.com/en-ca/Accessibility/windows">Windows Accessibility</a></li>
+</ul>
+</div>
+</section>
+<section class="panel panel-warning posPlus10"><header class="panel-heading">
+<h2 id="key_links" class="panel-title"><span class="fas fa-link" aria-hidden="true"></span>&nbsp;&nbsp;Key Links</h2>
+</header>
+<div class="panel-body">
+<ul>
+<li><a href="http://www.gcpedia.gc.ca/wiki/OPSA/BAFP:_Building_Accessibility_Confidence">Building Accessibility Confidence</a></li>
+<li><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601">Standard on Accessibility</a></li>
+<li><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25875">Standard on Interoperability</a></li>
+<li><a href="https://www.parl.ca/DocumentViewer/en/42-1/bill/C-81/royal-assent">Accessible Canada Act</a></li>
+<li><a href="https://www.gcpedia.gc.ca/gcwiki/index.php?title=Office_of_Public_Service_Accessibility/_Bureau_de_l%E2%80%99accessibilit%C3%A9_au_sein_de_la_fonction_publique&amp;redirect=no">Office of Public Service Accessibility</a></li>
+</ul>
+</div>
+</section>
+<section class="panel panel-info posPlus22">
+<div class="panel-heading">
+<h2 id="learning" class="panel-title"><span class="fas fa-cloud mrgn-rght-md" aria-hidden="true"></span>Learning</h2>
+</div>
+<div class="panel-body">
+<ul>
+<li><a href="/eng/imit/A11Y/tools_and_resources/accessibility_curriculum.shtml">Accessibility Curriculum for Innovation, Information and Technology Branch</a></li>
+<li><a href="https://learn-apprendre.csps-efpc.gc.ca/application/en/content/web-accessibility-canadaca-t716">Web Accessibility for Canada.ca (T716)</a></li>
+</ul>
+</div>
+</section>
+</div>
+<!-- end of row --></div>
+<div class="row wb-eqht">
+<div class="col-md-5 pull-right">
+<section class="panel panel-default hght-inhrt">
+<div class="panel-heading">
+<h2 id="events" class="panel-title"><span class="fas fa-calendar-alt mrgn-rght-md" aria-hidden="true"></span>Events</h2>
+</div>
+<div class="panel-body">
+<p><a href="https://www.csps-efpc.gc.ca/events/spotlight-access/index-eng.aspx?pk_campaign=Arial377-EN&amp;pk_kwd=Procurement#nov27">Spotlight on Accessibility Series with the Canada School of Public Service</a></p>
+<ul>
+<li>Communications &ndash; February 25, 2020</li>
+<li>Service &ndash; March 11, 2020</li>
+<li>Employment &ndash; April 15, 2020</li>
+</ul>
+</div>
+</section>
+</div>
+<div class="col-md-7">
+<section class="panel panel-default hght-inhrt">
+<div class="panel-heading">
+<h2 id="contact" class="panel-title"><span class="fas fa-address-book mrgn-rght-md" aria-hidden="true"></span>Contact</h2>
+</div>
+<div class="panel-body">
+<p>To submit a service request, submit an email with the following information:</p>
+<ul>
+<li>Service name</li>
+<li>Additional request details</li>
+<li>Attachments if necessary</li>
+<li>Contact Information to reach you</li>
+</ul>
+<p><strong>Submit to</strong>:&nbsp;<a href="mailto:EDSC.ACCESSIBILITE-ACCESSIBILITY.ESDC@hrsdc-rhdcc.gc.ca">EDSC.ACCESSIBILITE-ACCESSIBILITY.ESDC</a> or call 819 654-1071</p>
+</div>
+</section>
+</div>
+</div>
+<h2 class="wb-inv">Accessibility by Design for writers and programmers</h2>
+<div class="row wb-eqht">
+<div class="col-md-7">
+<section class="panel panel-default hght-inhrt"><header class="panel-heading">
+<h3 id="designing" class="panel-title"><span class="fas fa-drafting-compass" aria-hidden="true"></span>&nbsp;&nbsp;Designing for Accessibility</h3>
+</header>
+<div class="panel-body">
+<ul>
+<li><a href="https://support.office.com/en-us/article/make-your-outlook-email-accessible-to-people-with-disabilities-71ce71f4-7b15-4b7a-a2e3-cf91721bbacb?ui=en-US&amp;rs=en-US&amp;ad=US">Outlook - make your email accessible</a></li>
+<li><a href="https://support.office.com/en-us/article/make-your-word-documents-accessible-to-people-with-disabilities-d9bf3683-87ac-47ea-b91a-78dcacb3c66d">Word - make your documents accessible</a></li>
+<li><a href="https://support.office.com/en-us/article/make-your-excel-documents-accessible-to-people-with-disabilities-6cc05fc5-1314-48b5-8eb3-683e49b3e593">Excel - make your documents accessible</a></li>
+<li><a href="https://support.office.com/en-us/article/make-your-powerpoint-presentations-accessible-to-people-with-disabilities-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25">PowerPoint - make your presentations accessible</a></li>
+<li><span><a href="https://helpx.adobe.com/ca/acrobat/using/create-verify-pdf-accessibility.html">PDF (Acrobat Pro) - Create and verify accessibility</a></span></li>
+<li><a href="https://www.foxitsoftware.com/support/tutorial/?from=foxit%20phantompdf_business&amp;utm_source=client-app">Foxit PhantomPDF Instructional Tutorials</a></li>
+<li><a href="https://cnib.ca/sites/default/files/2018-07/CNIB Clear Print Guide.pdf">Clear Print Accessibility Guidelines</a></li>
+</ul>
+</div>
+</section>
+</div>
+<div class="col-md-5">
+<section class="panel panel-default hght-inhrt"><header class="panel-heading">
+<h3 id="do" class="panel-title"><span class="fas fa-thumbs-up" aria-hidden="true"></span>&nbsp;&nbsp;Do's and Don'ts for Accessible Designs</h3>
+</header>
+<div class="panel-body">
+<p>Designing for users:</p>
+<ul>
+<li>On the <a href="/eng/imit/A11Y/autistic.shtml">autistic spectrum</a></li>
+<li>Of <a href="/eng/imit/A11Y/screen_reader.shtml">screen readers</a></li>
+<li>With <a href="/eng/imit/A11Y/low_vision.shtml">low vision</a></li>
+<li>With <a href="/eng/imit/A11Y/dyslexia.shtml">dyslexia</a></li>
+<li>With <a href="/eng/imit/A11Y/motor_disabilities.shtml">physical or motor disabilities</a></li>
+<li>Who are <a href="/eng/imit/A11Y/deaf_hard_of_hearing.shtml">deaf or hard of hearing</a></li>
+</ul>
+</div>
+</section>
+</div>
+</div>
+<div class="row wb-eqht">
+<div class="col-md-7">
+<section class="panel panel-default hght-inhrt"><header class="panel-heading">
+<h3 id="Programmer" class="panel-title"><span class="fas fa-laptop-code" aria-hidden="true"></span>&nbsp;&nbsp;Information and Tools for Programmers</h3>
+</header>
+<div class="panel-body">
+<ul>
+<li><a href="http://www.w3.org/TR/WCAG21/">Web Content Accessibility Guidelines (WCAG) 2.1</a></li>
+<li><a href="http://www.gcpedia.gc.ca/wiki/Centrally_Deployed_Templates_Solution_(CDTS)">Intranet/Internet Centrally Deployed Templates Solution</a></li>
+<li><a href="http://mandate376.standards.eu/standard">Standard - EN 301 549</a></li>
+<li><a href="https://www.section508.gov/">Section 508</a></li>
+</ul>
+</div>
+</section>
+</div>
+<div class="col-md-5">
+<section class="panel panel-default hght-inhrt"><header class="panel-heading">
+<h2 id="Partners" class="panel-title"><span class="fas fa-handshake" aria-hidden="true"></span>&nbsp;&nbsp;Partners</h2>
+</header>
+<div class="panel-body">
+<ul>
+<li><a href="http://esdc.prv/en/issdb/directorates/odi/index.shtml">Office for Disability Issues (ODI)</a></li>
+<li><a href="http://esdc.prv/en/iitb/es/ts/wscoe/index-eng.shtml">Web Standards Centre of Expertise (WS CoE)</a></li>
+<li><a href="http://www.gcpedia.gc.ca/wiki/OPSA/BAFP">The Office of Public Service Accessibility</a></li>
+<li><a href="http://www.gcpedia.gc.ca/wiki/Persons_with_Disabilities_Champions_and_Chairs_Committee_%28PwDCCC%29">Persons with Disabilities Champions and Chairs Committee (PwDCCC)</a></li>
+</ul>
+</div>
+</section>
+</div>
+</div>
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/1col/block5.html" -->
+<!--#include virtual="/includes/op-so/edsc-esdc_prv/tpl/is/en/1col/block6.html" -->
